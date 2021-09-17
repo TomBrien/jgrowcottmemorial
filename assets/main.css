@@ -93,24 +93,24 @@ p {
 	}
 
 a {
-	color:#357edd;
+	color:#5c0f0f;
 	text-decoration: none;
 	}
 
 a:visited{
-	color:#96ccff;
+	color:#5c0f0f;
   	}
 
 a:hover{
-	color:#00449e;
+	color:#8c1b1b;
   	}
 
 a:focus{
-	color:#009eff;
+	color:#8c1b1b;
 	}
 
 a:active{
-	color:#001b44;
+	color:#8c1b1b;
 	}
 
 .task-list {
