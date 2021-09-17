@@ -5,16 +5,22 @@
 layout: default
 ---
 
-# Soon
+# Memorial for John Growcott
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+<hr />
 
-## What's in it?
+## Date & Time
 
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
+28<sup>th</sup> September 2021; 3 PM
+<br /> <br />
 
-***
+<hr />
 
-## Get started
+## Venue
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+Flintshire Memorial Park & Crematorium, Northop, CH7 6DF
+
+Followed by a gathering at Mountain Park Hotel, Flint, CH6 5QG
+
+Family flowers only, charitable donations warmly welcomed (details to follow).
+
