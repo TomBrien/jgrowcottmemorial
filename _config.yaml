@@ -18,7 +18,7 @@ title: Memorial for John Growcott
 # phone: 0123456789
 description: A coming soon page for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://johngrowcottmemorial.wales" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: alternatyves
 # github_username: YJPL
 
