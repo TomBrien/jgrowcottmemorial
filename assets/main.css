@@ -116,6 +116,10 @@ a:active{
 .task-list {
 	list-style: none;
 	}
+
+span.suffix {
+    text-transform: none;
+}
 		
 /**
  * Site footer

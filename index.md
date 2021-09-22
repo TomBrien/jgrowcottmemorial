@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Memorial for John Growcott
+# Memorial for<br />John Growcott <span class="suffix">(off Flint)</span>
 
 <hr />
 
@@ -33,3 +33,5 @@ Followed by a gathering at Mountain Park Hotel, Flint, CH6 5QG ([map](https://go
 Family flowers only, charitable donations would be warmly welcomed (details to follow).
 
 COVID-19 specific arrangements: face coverings required unless exempt and there will be no communal singing.
+
+Further details to follow shortly.
