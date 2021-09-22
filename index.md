@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Memorial for<br />John Growcott <span class="suffix">(off Flint)</span>
+# Memorial for <br class="hide-phone" />John Growcott <span class="suffix">(off Flint)</span>
 
 <hr />
 

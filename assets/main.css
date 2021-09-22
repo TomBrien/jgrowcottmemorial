@@ -70,6 +70,18 @@ h1 {
 	font-weight: 700;
 	text-transform: uppercase;
 	}
+@media screen and (max-width: 635px)
+{
+        h1 { 
+            font-size: 36px;
+        }
+        .hide-phone:before {
+            content: "&nbsp;";
+        }
+        .hide-phone {
+	    display: none !important;
+        }    
+{
 
 h2 {
 	margin: 0;
